@@ -17,7 +17,7 @@ body {
 /* Estilos do Cabeçalho e Rodapé */
 header, footer {
   background-image: url('img/Img Topo.jpeg'); /* Verifique se este é o caminho correto */
-  background-color: hsl(247, 95%, 49%);
+  background-color: hsl(247, 100%, 14%);
   background-repeat: no-repeat; /* Corrige a propriedade para evitar repetição */
   background-size: 100%; /* Garante que a imagem cubra toda a área */
   color: white;
