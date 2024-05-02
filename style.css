@@ -37,7 +37,7 @@ nav ul {
   margin: 0;
   display: flex;
   justify-content: flex-start; /* Alterado de space-around para flex-start */
-    color: rgb(255, 153, 0);
+
 }
 
 nav ul li {
